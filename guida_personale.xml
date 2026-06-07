@@ -1,0 +1,1740 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.6.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Rai 1">
+    <display-name lang="it">Rai 1</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai 2">
+    <display-name lang="it">Rai 2</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="it">Rai 3</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rete 4">
+    <display-name lang="it">Rete 4</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Canale 5">
+    <display-name lang="it">Canale 5</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Italia 1">
+    <display-name lang="it">Italia 1</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="La7">
+    <display-name lang="it">La7</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="TV8">
+    <display-name lang="it">TV8</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Nove">
+    <display-name lang="it">Nove</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Italia 7 Gold">
+    <display-name lang="it">Italia 7 Gold</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="20">
+    <display-name lang="it">20</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai 4">
+    <display-name lang="it">Rai 4</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Iris">
+    <display-name lang="it">Iris</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai 5">
+    <display-name lang="it">Rai 5</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Movie">
+    <display-name lang="it">Rai Movie</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Premium">
+    <display-name lang="it">Rai Premium</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Cielo">
+    <display-name lang="it">Cielo</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Twenty Seven">
+    <display-name lang="it">Twenty Seven</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="TV2000">
+    <display-name lang="it">TV2000</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="La7 Cinema">
+    <display-name lang="it">La7 Cinema</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="La 5">
+    <display-name lang="it">La 5</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Real Time">
+    <display-name lang="it">Real Time</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="QVC">
+    <display-name lang="it">QVC</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="FoodNetwork">
+    <display-name lang="it">FoodNetwork</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Cine34">
+    <display-name lang="it">Cine34</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Focus">
+    <display-name lang="it">Focus</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="RTL 102.5 TV">
+    <display-name lang="it">RTL 102.5 TV</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="it">Discovery</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Giallo">
+    <display-name lang="it">Giallo</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Top Crime">
+    <display-name lang="it">Top Crime</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Boing">
+    <display-name lang="it">Boing</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="K2">
+    <display-name lang="it">K2</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Gulp">
+    <display-name lang="it">Rai Gulp</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Yoyo">
+    <display-name lang="it">Rai Yoyo</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Frisbee">
+    <display-name lang="it">Frisbee</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Boing Plus">
+    <display-name lang="it">Boing Plus</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Cartoonito">
+    <display-name lang="it">Cartoonito</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Super!">
+    <display-name lang="it">Super!</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="RaiNews24">
+    <display-name lang="it">RaiNews24</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Italia 2">
+    <display-name lang="it">Italia 2</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Sky Tg24">
+    <display-name lang="it">Sky Tg24</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Tgcom24">
+    <display-name lang="it">Tgcom24</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="it">DMAX</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Storia">
+    <display-name lang="it">Rai Storia</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Mediaset Extra">
+    <display-name lang="it">Mediaset Extra</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="HGTV - Home&amp;Garden">
+    <display-name lang="it">HGTV - Home&amp;Garden</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Scuola">
+    <display-name lang="it">Rai Scuola</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Rai Sport + HD">
+    <display-name lang="it">Rai Sport + HD</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="it">Discovery Turbo</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Sportitalia">
+    <display-name lang="it">Sportitalia</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="IL61">
+    <display-name lang="it">IL61</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="DonnaTv">
+    <display-name lang="it">DonnaTv</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="SuperTennis">
+    <display-name lang="it">SuperTennis</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Alma TV">
+    <display-name lang="it">Alma TV</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Radio 105">
+    <display-name lang="it">Radio 105</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="R101">
+    <display-name lang="it">R101</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Deejay TV">
+    <display-name lang="it">Deejay TV</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Radio Italia Tv">
+    <display-name lang="it">Radio Italia Tv</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Telecampione">
+    <display-name lang="it">Telecampione</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <channel id="Top Calcio 24">
+    <display-name lang="it">Top Calcio 24</display-name>
+    <url>http://www.superguidatv.it</url>
+  </channel>
+  <programme start="20260607051500 +0200" stop="20260607060000 +0200" channel="Rai 1">
+    <title lang="it">A Sua immagine</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607070000 +0200" channel="Rai 1">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260607070000 +0200" stop="20260607070500 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607070500 +0200" stop="20260607080000 +0200" channel="Rai 1">
+    <title lang="it">Linea Verde Italia</title>
+  </programme>
+  <programme start="20260607080000 +0200" stop="20260607082000 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607082000 +0200" stop="20260607090000 +0200" channel="Rai 1">
+    <title lang="it">UnoMattina Weekly</title>
+  </programme>
+  <programme start="20260607090000 +0200" stop="20260607090400 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607090400 +0200" stop="20260607091500 +0200" channel="Rai 1">
+    <title lang="it">UnoMattina Weekly</title>
+  </programme>
+  <programme start="20260607091500 +0200" stop="20260607092000 +0200" channel="Rai 1">
+    <title lang="it">TG1 LIS</title>
+  </programme>
+  <programme start="20260607092000 +0200" stop="20260607095000 +0200" channel="Rai 1">
+    <title lang="it">A Sua immagine</title>
+  </programme>
+  <programme start="20260607095000 +0200" stop="20260607121000 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607121000 +0200" stop="20260607122000 +0200" channel="Rai 1">
+    <title lang="it">A Sua immagine</title>
+  </programme>
+  <programme start="20260607122000 +0200" stop="20260607133000 +0200" channel="Rai 1">
+    <title lang="it">Linea Verde</title>
+  </programme>
+  <programme start="20260607133000 +0200" stop="20260607140000 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607171500 +0200" channel="Rai 1">
+    <title lang="it">Domenica In</title>
+  </programme>
+  <programme start="20260607171500 +0200" stop="20260607171800 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607171800 +0200" stop="20260607172000 +0200" channel="Rai 1">
+    <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20260607172000 +0200" stop="20260607184000 +0200" channel="Rai 1">
+    <title lang="it">Da noi... a ruota libera</title>
+  </programme>
+  <programme start="20260607184000 +0200" stop="20260607200000 +0200" channel="Rai 1">
+    <title lang="it">Reazione a catena</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607203000 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607203000 +0200" stop="20260607232000 +0200" channel="Rai 1">
+    <title lang="it">Nazionale di calcio - Amichevole: Grecia - Italia</title>
+  </programme>
+  <programme start="20260607232000 +0200" stop="20260607232500 +0200" channel="Rai 1">
+    <title lang="it">Tg1</title>
+  </programme>
+  <programme start="20260607232500 +0200" stop="20260608003500 +0200" channel="Rai 1">
+    <title lang="it">Speciale Tg1</title>
+  </programme>
+  <programme start="20260608003500 +0200" stop="20260608004000 +0200" channel="Rai 1">
+    <title lang="it">Che tempo fa</title>
+  </programme>
+  <programme start="20260608004000 +0200" stop="20260608021000 +0200" channel="Rai 1">
+    <title lang="it">Sottovoce</title>
+  </programme>
+  <programme start="20260608021000 +0200" stop="20260608032500 +0200" channel="Rai 1">
+    <title lang="it">Reazione a catena</title>
+  </programme>
+  <programme start="20260608032500 +0200" stop="20260608041000 +0200" channel="Rai 1">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260608041000 +0200" stop="20260608053000 +0200" channel="Rai 1">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260608053000 +0200" stop="20260608060000 +0200" channel="Rai 1">
+    <title lang="it">Parlamento Punto Europa</title>
+  </programme>
+  <programme start="20260607022000 +0200" stop="20260607060000 +0200" channel="Rai 2">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607062500 +0200" channel="Rai 2">
+    <title lang="it">Piloti</title>
+  </programme>
+  <programme start="20260607062500 +0200" stop="20260607071500 +0200" channel="Rai 2">
+    <title lang="it">Un ciclone in convento</title>
+  </programme>
+  <programme start="20260607071500 +0200" stop="20260607075500 +0200" channel="Rai 2">
+    <title lang="it">TG2 Storie. I racconti della settimana</title>
+  </programme>
+  <programme start="20260607075500 +0200" stop="20260607081000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Tutto il bello che c'è</title>
+  </programme>
+  <programme start="20260607081000 +0200" stop="20260607083000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Mizar</title>
+  </programme>
+  <programme start="20260607083000 +0200" stop="20260607083500 +0200" channel="Rai 2">
+    <title lang="it">TG2 Cinematinée</title>
+  </programme>
+  <programme start="20260607083500 +0200" stop="20260607084000 +0200" channel="Rai 2">
+    <title lang="it">TG2 Achab Libri</title>
+  </programme>
+  <programme start="20260607084000 +0200" stop="20260607092900 +0200" channel="Rai 2">
+    <title lang="it">Heartland</title>
+  </programme>
+  <programme start="20260607092900 +0200" stop="20260607101000 +0200" channel="Rai 2">
+    <title lang="it">Heartland</title>
+  </programme>
+  <programme start="20260607101000 +0200" stop="20260607110000 +0200" channel="Rai 2">
+    <title lang="it">La dolce attesa</title>
+  </programme>
+  <programme start="20260607110000 +0200" stop="20260607111000 +0200" channel="Rai 2">
+    <title lang="it">Tg Sport</title>
+  </programme>
+  <programme start="20260607111000 +0200" stop="20260607130000 +0200" channel="Rai 2">
+    <title lang="it">Citofonare Rai2</title>
+  </programme>
+  <programme start="20260607130000 +0200" stop="20260607133000 +0200" channel="Rai 2">
+    <title lang="it">Tg2</title>
+  </programme>
+  <programme start="20260607133000 +0200" stop="20260607135900 +0200" channel="Rai 2">
+    <title lang="it">TG2 Motori</title>
+  </programme>
+  <programme start="20260607135900 +0200" stop="20260607140000 +0200" channel="Rai 2">
+    <title lang="it">Meteo 2</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607144500 +0200" channel="Rai 2">
+    <title lang="it">Dribbling Mondiali</title>
+  </programme>
+  <programme start="20260607144500 +0200" stop="20260607153500 +0200" channel="Rai 2">
+    <title lang="it">Bellissima Italia</title>
+  </programme>
+  <programme start="20260607153500 +0200" stop="20260607175000 +0200" channel="Rai 2">
+    <title lang="it">Giro d'Italia Women</title>
+  </programme>
+  <programme start="20260607175000 +0200" stop="20260607175500 +0200" channel="Rai 2">
+    <title lang="it">TG2 LIS</title>
+  </programme>
+  <programme start="20260607175500 +0200" stop="20260607203000 +0200" channel="Rai 2">
+    <title lang="it">Serie C</title>
+  </programme>
+  <programme start="20260607203000 +0200" stop="20260607210000 +0200" channel="Rai 2">
+    <title lang="it">Tg2</title>
+  </programme>
+  <programme start="20260607210000 +0200" stop="20260607214900 +0200" channel="Rai 2">
+    <title lang="it">The Rookie</title>
+  </programme>
+  <programme start="20260607214900 +0200" stop="20260607224000 +0200" channel="Rai 2">
+    <title lang="it">The Rookie</title>
+  </programme>
+  <programme start="20260607224000 +0200" stop="20260607233000 +0200" channel="Rai 2">
+    <title lang="it">Professor T. (UK)</title>
+  </programme>
+  <programme start="20260607233000 +0200" stop="20260608002000 +0200" channel="Rai 2">
+    <title lang="it">Professor T. (UK)</title>
+  </programme>
+  <programme start="20260608002000 +0200" stop="20260608012500 +0200" channel="Rai 2">
+    <title lang="it">Il commissario Lanz</title>
+  </programme>
+  <programme start="20260608012500 +0200" stop="20260608013000 +0200" channel="Rai 2">
+    <title lang="it">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260608013000 +0200" stop="20260608060000 +0200" channel="Rai 2">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260607054000 +0200" stop="20260607060000 +0200" channel="Rai 3">
+    <title lang="it">Méditerranée</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607063000 +0200" channel="Rai 3">
+    <title lang="it">Fuori orario. Cose (mai) viste</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607080000 +0200" channel="Rai 3">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260607080000 +0200" stop="20260607083000 +0200" channel="Rai 3">
+    <title lang="it">Protestantesimo</title>
+  </programme>
+  <programme start="20260607083000 +0200" stop="20260607091000 +0200" channel="Rai 3">
+    <title lang="it">Sulla via di Damasco</title>
+  </programme>
+  <programme start="20260607091000 +0200" stop="20260607100500 +0200" channel="Rai 3">
+    <title lang="it">Sandokan La serie</title>
+  </programme>
+  <programme start="20260607100500 +0200" stop="20260607111000 +0200" channel="Rai 3">
+    <title lang="it">Sandokan La serie</title>
+  </programme>
+  <programme start="20260607111000 +0200" stop="20260607120000 +0200" channel="Rai 3">
+    <title lang="it">O anche no Estate</title>
+  </programme>
+  <programme start="20260607120000 +0200" stop="20260607121700 +0200" channel="Rai 3">
+    <title lang="it">Tg3</title>
+  </programme>
+  <programme start="20260607121700 +0200" stop="20260607122500 +0200" channel="Rai 3">
+    <title lang="it">Tg3 Fuorilinea</title>
+  </programme>
+  <programme start="20260607122500 +0200" stop="20260607125500 +0200" channel="Rai 3">
+    <title lang="it">Pet Anatomy</title>
+  </programme>
+  <programme start="20260607125500 +0200" stop="20260607130000 +0200" channel="Rai 3">
+    <title lang="it">TG3 LIS</title>
+  </programme>
+  <programme start="20260607130000 +0200" stop="20260607140000 +0200" channel="Rai 3">
+    <title lang="it">Tittia fantino da Palio Prima Visione</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607141000 +0200" channel="Rai 3">
+    <title lang="it">Tg Regione</title>
+  </programme>
+  <programme start="20260607141000 +0200" stop="20260607141500 +0200" channel="Rai 3">
+    <title lang="it">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260607141500 +0200" stop="20260607143000 +0200" channel="Rai 3">
+    <title lang="it">Tg3</title>
+  </programme>
+  <programme start="20260607143000 +0200" stop="20260607170500 +0200" channel="Rai 3">
+    <title lang="it">In mezz'ora</title>
+  </programme>
+  <programme start="20260607170500 +0200" stop="20260607190000 +0200" channel="Rai 3">
+    <title lang="it">Kilimangiaro</title>
+  </programme>
+  <programme start="20260607190000 +0200" stop="20260607193000 +0200" channel="Rai 3">
+    <title lang="it">Tg3</title>
+  </programme>
+  <programme start="20260607193000 +0200" stop="20260607195100 +0200" channel="Rai 3">
+    <title lang="it">Tg Regione</title>
+  </programme>
+  <programme start="20260607195100 +0200" stop="20260607200000 +0200" channel="Rai 3">
+    <title lang="it">Tg Regione Meteo</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607203000 +0200" channel="Rai 3">
+    <title lang="it">Blob</title>
+  </programme>
+  <programme start="20260607203000 +0200" stop="20260607211500 +0200" channel="Rai 3">
+    <title lang="it">Illuminate</title>
+  </programme>
+  <programme start="20260607211500 +0200" stop="20260607231500 +0200" channel="Rai 3">
+    <title lang="it">PresaDiretta</title>
+  </programme>
+  <programme start="20260607231500 +0200" stop="20260608000000 +0200" channel="Rai 3">
+    <title lang="it">Fame d'amore (St. 7)</title>
+  </programme>
+  <programme start="20260608000000 +0200" stop="20260608002500 +0200" channel="Rai 3">
+    <title lang="it">TG3 Mondo</title>
+  </programme>
+  <programme start="20260608002500 +0200" stop="20260608003000 +0200" channel="Rai 3">
+    <title lang="it">Meteo 3</title>
+  </programme>
+  <programme start="20260608003000 +0200" stop="20260608030000 +0200" channel="Rai 3">
+    <title lang="it">In mezz'ora</title>
+  </programme>
+  <programme start="20260608030000 +0200" stop="20260608030500 +0200" channel="Rai 3">
+    <title lang="it">Fuori orario. Cose (mai) viste</title>
+  </programme>
+  <programme start="20260608030500 +0200" stop="20260608043000 +0200" channel="Rai 3">
+    <title lang="it">Abacuc</title>
+  </programme>
+  <programme start="20260608043000 +0200" stop="20260608054000 +0200" channel="Rai 3">
+    <title lang="it">MAGOG [o epifania del barbagianni]</title>
+  </programme>
+  <programme start="20260608054000 +0200" stop="20260608055000 +0200" channel="Rai 3">
+    <title lang="it">Sì (Film 2020)</title>
+  </programme>
+  <programme start="20260608055000 +0200" stop="20260608060000 +0200" channel="Rai 3">
+    <title lang="it">Fuori orario. Cose (mai) viste</title>
+  </programme>
+  <programme start="20260607055100 +0200" stop="20260607061200 +0200" channel="Rete 4">
+    <title lang="it">Tg4 - ultima ora mattina</title>
+  </programme>
+  <programme start="20260607061200 +0200" stop="20260607070800 +0200" channel="Rete 4">
+    <title lang="it">4 di sera weekend</title>
+  </programme>
+  <programme start="20260607070800 +0200" stop="20260607074800 +0200" channel="Rete 4">
+    <title lang="it">La promessa</title>
+  </programme>
+  <programme start="20260607074800 +0200" stop="20260607090100 +0200" channel="Rete 4">
+    <title lang="it">Terra Amara</title>
+  </programme>
+  <programme start="20260607090100 +0200" stop="20260607100600 +0200" channel="Rete 4">
+    <title lang="it">Tradimento</title>
+  </programme>
+  <programme start="20260607100600 +0200" stop="20260607115500 +0200" channel="Rete 4">
+    <title lang="it">Dalla parte degli animali</title>
+  </programme>
+  <programme start="20260607115500 +0200" stop="20260607122700 +0200" channel="Rete 4">
+    <title lang="it">Tg4</title>
+  </programme>
+  <programme start="20260607122700 +0200" stop="20260607135300 +0200" channel="Rete 4">
+    <title lang="it">La signora in giallo</title>
+  </programme>
+  <programme start="20260607135300 +0200" stop="20260607152700 +0200" channel="Rete 4">
+    <title lang="it">Colombo</title>
+  </programme>
+  <programme start="20260607152700 +0200" stop="20260607153300 +0200" channel="Rete 4">
+    <title lang="it">Tg4 - Diario del giorno (Anteprima)</title>
+  </programme>
+  <programme start="20260607153300 +0200" stop="20260607170100 +0200" channel="Rete 4">
+    <title lang="it">Diario della domenica</title>
+  </programme>
+  <programme start="20260607170100 +0200" stop="20260607185800 +0200" channel="Rete 4">
+    <title lang="it">La rivolta dei cowboys</title>
+  </programme>
+  <programme start="20260607185800 +0200" stop="20260607194100 +0200" channel="Rete 4">
+    <title lang="it">Tg4</title>
+  </programme>
+  <programme start="20260607194100 +0200" stop="20260607202900 +0200" channel="Rete 4">
+    <title lang="it">La promessa</title>
+  </programme>
+  <programme start="20260607202900 +0200" stop="20260607213300 +0200" channel="Rete 4">
+    <title lang="it">4 di sera weekend</title>
+  </programme>
+  <programme start="20260607213300 +0200" stop="20260608000900 +0200" channel="Rete 4">
+    <title lang="it">Guardia del corpo</title>
+  </programme>
+  <programme start="20260608000900 +0200" stop="20260608020900 +0200" channel="Rete 4">
+    <title lang="it">Flashdance</title>
+  </programme>
+  <programme start="20260608020900 +0200" stop="20260608022700 +0200" channel="Rete 4">
+    <title lang="it">Tg4 - ultima ora notte</title>
+  </programme>
+  <programme start="20260608022700 +0200" stop="20260608040200 +0200" channel="Rete 4">
+    <title lang="it">Non escludo il ritorno</title>
+  </programme>
+  <programme start="20260608040200 +0200" stop="20260608054000 +0200" channel="Rete 4">
+    <title lang="it">Un pizzico di fortuna</title>
+  </programme>
+  <programme start="20260607052600 +0200" stop="20260607060000 +0200" channel="Canale 5">
+    <title lang="it">R.I.S. - Delitti Imperfetti</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607061500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607061500 +0200" stop="20260607063000 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607064500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607064500 +0200" stop="20260607070000 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607070000 +0200" stop="20260607071500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607071500 +0200" stop="20260607073000 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607073000 +0200" stop="20260607074500 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607074500 +0200" stop="20260607075200 +0200" channel="Canale 5">
+    <title lang="it">Prima Pagina Tg5</title>
+  </programme>
+  <programme start="20260607075200 +0200" stop="20260607075900 +0200" channel="Canale 5">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20260607075900 +0200" stop="20260607084900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20260607084900 +0200" stop="20260607095800 +0200" channel="Canale 5">
+    <title lang="it">I grandi misteri della Bibbia</title>
+  </programme>
+  <programme start="20260607095800 +0200" stop="20260607105600 +0200" channel="Canale 5">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20260607105600 +0200" stop="20260607112700 +0200" channel="Canale 5">
+    <title lang="it">Melaverde - Le storie</title>
+  </programme>
+  <programme start="20260607112700 +0200" stop="20260607115000 +0200" channel="Canale 5">
+    <title lang="it">Melaverde - Le storie</title>
+  </programme>
+  <programme start="20260607115000 +0200" stop="20260607125800 +0200" channel="Canale 5">
+    <title lang="it">Melaverde</title>
+  </programme>
+  <programme start="20260607125800 +0200" stop="20260607133900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20260607133900 +0200" stop="20260607140200 +0200" channel="Canale 5">
+    <title lang="it">L'arca di Noe'</title>
+  </programme>
+  <programme start="20260607140200 +0200" stop="20260607143100 +0200" channel="Canale 5">
+    <title lang="it">Beautiful</title>
+  </programme>
+  <programme start="20260607143100 +0200" stop="20260607150900 +0200" channel="Canale 5">
+    <title lang="it">Beautiful</title>
+  </programme>
+  <programme start="20260607150900 +0200" stop="20260607153400 +0200" channel="Canale 5">
+    <title lang="it">Racconto di una notte</title>
+  </programme>
+  <programme start="20260607153400 +0200" stop="20260607162900 +0200" channel="Canale 5">
+    <title lang="it">Forbidden Fruit</title>
+  </programme>
+  <programme start="20260607162900 +0200" stop="20260607184500 +0200" channel="Canale 5">
+    <title lang="it">Le storie di Verissimo</title>
+  </programme>
+  <programme start="20260607184500 +0200" stop="20260607195400 +0200" channel="Canale 5">
+    <title lang="it">Avanti un altro - story</title>
+  </programme>
+  <programme start="20260607195400 +0200" stop="20260607200000 +0200" channel="Canale 5">
+    <title lang="it">Tg5 Prima Pagina</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607203900 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20260607203900 +0200" stop="20260607212000 +0200" channel="Canale 5">
+    <title lang="it">La ruota della fortuna</title>
+  </programme>
+  <programme start="20260607212000 +0200" stop="20260607212100 +0200" channel="Canale 5">
+    <title lang="it">Riassunto - racconto di una notte</title>
+  </programme>
+  <programme start="20260607212100 +0200" stop="20260607221900 +0200" channel="Canale 5">
+    <title lang="it">Racconto di una notte</title>
+  </programme>
+  <programme start="20260607221900 +0200" stop="20260607232300 +0200" channel="Canale 5">
+    <title lang="it">Racconto di una notte</title>
+  </programme>
+  <programme start="20260607232300 +0200" stop="20260608002400 +0200" channel="Canale 5">
+    <title lang="it">Racconto di una notte</title>
+  </programme>
+  <programme start="20260608002400 +0200" stop="20260608011100 +0200" channel="Canale 5">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20260608011100 +0200" stop="20260608025800 +0200" channel="Canale 5">
+    <title lang="it">So tutto di te</title>
+  </programme>
+  <programme start="20260608025800 +0200" stop="20260608034400 +0200" channel="Canale 5">
+    <title lang="it">New Amsterdam</title>
+  </programme>
+  <programme start="20260608034400 +0200" stop="20260608042500 +0200" channel="Canale 5">
+    <title lang="it">New Amsterdam</title>
+  </programme>
+  <programme start="20260608042500 +0200" stop="20260608050600 +0200" channel="Canale 5">
+    <title lang="it">New Amsterdam</title>
+  </programme>
+  <programme start="20260608050600 +0200" stop="20260608060000 +0200" channel="Canale 5">
+    <title lang="it">R.I.S. - Delitti Imperfetti</title>
+  </programme>
+  <programme start="20260607053800 +0200" stop="20260607062300 +0200" channel="Italia 1">
+    <title lang="it">Unearthed - La storia dalle fondamenta</title>
+  </programme>
+  <programme start="20260607062300 +0200" stop="20260607071100 +0200" channel="Italia 1">
+    <title lang="it">Hazzard</title>
+  </programme>
+  <programme start="20260607071100 +0200" stop="20260607075100 +0200" channel="Italia 1">
+    <title lang="it">The Tom &amp; Jerry Show</title>
+  </programme>
+  <programme start="20260607075100 +0200" stop="20260607083800 +0200" channel="Italia 1">
+    <title lang="it">New Looney Tunes</title>
+  </programme>
+  <programme start="20260607083800 +0200" stop="20260607090100 +0200" channel="Italia 1">
+    <title lang="it">Young Sheldon</title>
+  </programme>
+  <programme start="20260607090100 +0200" stop="20260607092400 +0200" channel="Italia 1">
+    <title lang="it">Young Sheldon</title>
+  </programme>
+  <programme start="20260607092400 +0200" stop="20260607095300 +0200" channel="Italia 1">
+    <title lang="it">Young Sheldon</title>
+  </programme>
+  <programme start="20260607095300 +0200" stop="20260607101900 +0200" channel="Italia 1">
+    <title lang="it">The Big Bang Theory</title>
+  </programme>
+  <programme start="20260607101900 +0200" stop="20260607105000 +0200" channel="Italia 1">
+    <title lang="it">The Big Bang Theory</title>
+  </programme>
+  <programme start="20260607105000 +0200" stop="20260607112200 +0200" channel="Italia 1">
+    <title lang="it">Due uomini e 1/2</title>
+  </programme>
+  <programme start="20260607112200 +0200" stop="20260607114700 +0200" channel="Italia 1">
+    <title lang="it">Due uomini e 1/2</title>
+  </programme>
+  <programme start="20260607114700 +0200" stop="20260607122500 +0200" channel="Italia 1">
+    <title lang="it">Drive Up</title>
+  </programme>
+  <programme start="20260607122500 +0200" stop="20260607130600 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto</title>
+  </programme>
+  <programme start="20260607130600 +0200" stop="20260607134900 +0200" channel="Italia 1">
+    <title lang="it">Sport Mediaset</title>
+  </programme>
+  <programme start="20260607134900 +0200" stop="20260607142000 +0200" channel="Italia 1">
+    <title lang="it">E-Planet</title>
+  </programme>
+  <programme start="20260607142000 +0200" stop="20260607151600 +0200" channel="Italia 1">
+    <title lang="it">Dr. House - Medical Division</title>
+  </programme>
+  <programme start="20260607151600 +0200" stop="20260607161200 +0200" channel="Italia 1">
+    <title lang="it">Dr. House - Medical Division</title>
+  </programme>
+  <programme start="20260607161200 +0200" stop="20260607170800 +0200" channel="Italia 1">
+    <title lang="it">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20260607170800 +0200" stop="20260607175900 +0200" channel="Italia 1">
+    <title lang="it">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20260607175900 +0200" stop="20260607182000 +0200" channel="Italia 1">
+    <title lang="it">Pompei: le nuove verita'</title>
+  </programme>
+  <programme start="20260607182000 +0200" stop="20260607183000 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto Live</title>
+  </programme>
+  <programme start="20260607183000 +0200" stop="20260607185600 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto</title>
+  </programme>
+  <programme start="20260607185600 +0200" stop="20260607193200 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto Mag</title>
+  </programme>
+  <programme start="20260607193200 +0200" stop="20260607203700 +0200" channel="Italia 1">
+    <title lang="it">Hawaii Five-0</title>
+  </programme>
+  <programme start="20260607203700 +0200" stop="20260607212600 +0200" channel="Italia 1">
+    <title lang="it">NCIS - Unità anticrimine</title>
+  </programme>
+  <programme start="20260607212600 +0200" stop="20260607234000 +0200" channel="Italia 1">
+    <title lang="it">Il ricco, il povero e il maggiordomo</title>
+  </programme>
+  <programme start="20260607234000 +0200" stop="20260608015400 +0200" channel="Italia 1">
+    <title lang="it">Io sono tu</title>
+  </programme>
+  <programme start="20260608015400 +0200" stop="20260608021100 +0200" channel="Italia 1">
+    <title lang="it">Studio Aperto - La giornata</title>
+  </programme>
+  <programme start="20260608021100 +0200" stop="20260608023200 +0200" channel="Italia 1">
+    <title lang="it">Sport Mediaset - La giornata</title>
+  </programme>
+  <programme start="20260608023200 +0200" stop="20260608024300 +0200" channel="Italia 1">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260608024300 +0200" stop="20260608024800 +0200" channel="Italia 1">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260608024800 +0200" stop="20260608033200 +0200" channel="Italia 1">
+    <title lang="it">Cose di questo mondo</title>
+  </programme>
+  <programme start="20260608033200 +0200" stop="20260608041600 +0200" channel="Italia 1">
+    <title lang="it">Cose di questo mondo</title>
+  </programme>
+  <programme start="20260608041600 +0200" stop="20260608045900 +0200" channel="Italia 1">
+    <title lang="it">Cose di questo mondo</title>
+  </programme>
+  <programme start="20260608045900 +0200" stop="20260608054400 +0200" channel="Italia 1">
+    <title lang="it">Unearthed - la storia dalle fondamenta</title>
+  </programme>
+  <programme start="20260607044000 +0200" stop="20260607060000 +0200" channel="La7">
+    <title lang="it">Coffee Tech</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607060500 +0200" channel="La7">
+    <title lang="it">Meteo</title>
+  </programme>
+  <programme start="20260607060500 +0200" stop="20260607061000 +0200" channel="La7">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20260607061000 +0200" stop="20260607061500 +0200" channel="La7">
+    <title lang="it">Oroscopo</title>
+  </programme>
+  <programme start="20260607061500 +0200" stop="20260607062000 +0200" channel="La7">
+    <title lang="it">Meteo</title>
+  </programme>
+  <programme start="20260607062000 +0200" stop="20260607062500 +0200" channel="La7">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20260607062500 +0200" stop="20260607063000 +0200" channel="La7">
+    <title lang="it">Oroscopo</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607063500 +0200" channel="La7">
+    <title lang="it">Meteo</title>
+  </programme>
+  <programme start="20260607063500 +0200" stop="20260607064000 +0200" channel="La7">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20260607064000 +0200" stop="20260607065000 +0200" channel="La7">
+    <title lang="it">Anticamera con vista</title>
+  </programme>
+  <programme start="20260607065000 +0200" stop="20260607065500 +0200" channel="La7">
+    <title lang="it">Traffico</title>
+  </programme>
+  <programme start="20260607065500 +0200" stop="20260607070000 +0200" channel="La7">
+    <title lang="it">Oroscopo</title>
+  </programme>
+  <programme start="20260607070000 +0200" stop="20260607074000 +0200" channel="La7">
+    <title lang="it">Omnibus News</title>
+  </programme>
+  <programme start="20260607074000 +0200" stop="20260607075500 +0200" channel="La7">
+    <title lang="it">TG La7 ore 7.40</title>
+  </programme>
+  <programme start="20260607075500 +0200" stop="20260607080000 +0200" channel="La7">
+    <title lang="it">Omnibus Meteo</title>
+  </programme>
+  <programme start="20260607080000 +0200" stop="20260607094000 +0200" channel="La7">
+    <title lang="it">Omnibus La7</title>
+  </programme>
+  <programme start="20260607094000 +0200" stop="20260607101000 +0200" channel="La7">
+    <title lang="it">Camera con vista</title>
+  </programme>
+  <programme start="20260607101000 +0200" stop="20260607110000 +0200" channel="La7">
+    <title lang="it">Amarsi un po'</title>
+  </programme>
+  <programme start="20260607110000 +0200" stop="20260607114000 +0200" channel="La7">
+    <title lang="it">Le parole della salute</title>
+  </programme>
+  <programme start="20260607114000 +0200" stop="20260607121000 +0200" channel="La7">
+    <title lang="it">Amabili creature</title>
+  </programme>
+  <programme start="20260607121000 +0200" stop="20260607133000 +0200" channel="La7">
+    <title lang="it">Green Tour</title>
+  </programme>
+  <programme start="20260607133000 +0200" stop="20260607140000 +0200" channel="La7">
+    <title lang="it">TG La7 ore 13.30</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607163000 +0200" channel="La7">
+    <title lang="it">Una giornata particolare</title>
+  </programme>
+  <programme start="20260607163000 +0200" stop="20260607173000 +0200" channel="La7">
+    <title lang="it">Bell'Italia in viaggio</title>
+  </programme>
+  <programme start="20260607173000 +0200" stop="20260607200000 +0200" channel="La7">
+    <title lang="it">The Millionaire</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607203500 +0200" channel="La7">
+    <title lang="it">TG La7 ore 20</title>
+  </programme>
+  <programme start="20260607203500 +0200" stop="20260607220000 +0200" channel="La7">
+    <title lang="it">In onda</title>
+  </programme>
+  <programme start="20260607220000 +0200" stop="20260608012000 +0200" channel="La7">
+    <title lang="it">D-Day: i nastri ritrovati</title>
+  </programme>
+  <programme start="20260608012000 +0200" stop="20260608013000 +0200" channel="La7">
+    <title lang="it">TG La7 Notte</title>
+  </programme>
+  <programme start="20260608013000 +0200" stop="20260608021500 +0200" channel="La7">
+    <title lang="it">In onda</title>
+  </programme>
+  <programme start="20260608021500 +0200" stop="20260608031500 +0200" channel="La7">
+    <title lang="it">Ciclo La7 Doc: La torre di Babele Doc</title>
+  </programme>
+  <programme start="20260608031500 +0200" stop="20260608041500 +0200" channel="La7">
+    <title lang="it">Ciclo La7 Doc: Tesori nascosti</title>
+  </programme>
+  <programme start="20260608041500 +0200" stop="20260608044500 +0200" channel="La7">
+    <title lang="it">Ciclo La7 Doc: Crimini e Misfatti</title>
+  </programme>
+  <programme start="20260608044500 +0200" stop="20260608052500 +0200" channel="La7">
+    <title lang="it">Ciclo La7 Doc: Crimini e Misfatti</title>
+  </programme>
+  <programme start="20260608052500 +0200" stop="20260608060000 +0200" channel="La7">
+    <title lang="it">Omnibus La7</title>
+  </programme>
+  <programme start="20260607051000 +0200" stop="20260607060000 +0200" channel="TV8">
+    <title lang="it">Lady Killer</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607063000 +0200" channel="TV8">
+    <title lang="it">TG24 mezz'ora (Diretta)</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607065500 +0200" channel="TV8">
+    <title lang="it">TG24 mezz'ora (Diretta)</title>
+  </programme>
+  <programme start="20260607065500 +0200" stop="20260607070000 +0200" channel="TV8">
+    <title lang="it">TG24 Preview (Diretta)</title>
+  </programme>
+  <programme start="20260607070000 +0200" stop="20260607072000 +0200" channel="TV8">
+    <title lang="it">TG24 mezz'ora (Diretta)</title>
+  </programme>
+  <programme start="20260607072000 +0200" stop="20260607073000 +0200" channel="TV8">
+    <title lang="it">Sky Meteo24 (Diretta)</title>
+  </programme>
+  <programme start="20260607073000 +0200" stop="20260607073500 +0200" channel="TV8">
+    <title lang="it">Alessandro Borghese Kitchen Sound</title>
+  </programme>
+  <programme start="20260607073500 +0200" stop="20260607083500 +0200" channel="TV8">
+    <title lang="it">Quattro matrimoni</title>
+  </programme>
+  <programme start="20260607083500 +0200" stop="20260607094000 +0200" channel="TV8">
+    <title lang="it">Quattro matrimoni</title>
+  </programme>
+  <programme start="20260607094000 +0200" stop="20260607094500 +0200" channel="TV8">
+    <title lang="it">Sky TG24 in pillole</title>
+  </programme>
+  <programme start="20260607094500 +0200" stop="20260607110000 +0200" channel="TV8">
+    <title lang="it">Quattro matrimoni</title>
+  </programme>
+  <programme start="20260607110000 +0200" stop="20260607110500 +0200" channel="TV8">
+    <title lang="it">Sky TG24 in pillole</title>
+  </programme>
+  <programme start="20260607110500 +0200" stop="20260607123000 +0200" channel="TV8">
+    <title lang="it">Alessandro Borghese - 4 Ristoranti</title>
+  </programme>
+  <programme start="20260607123000 +0200" stop="20260607125000 +0200" channel="TV8">
+    <title lang="it">MotoGP Paddock Live</title>
+  </programme>
+  <programme start="20260607125000 +0200" stop="20260607135500 +0200" channel="TV8">
+    <title lang="it">GP Ungheria: Gara Moto3</title>
+  </programme>
+  <programme start="20260607135500 +0200" stop="20260607140000 +0200" channel="TV8">
+    <title lang="it">MotoGP Paddock Live</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607145500 +0200" channel="TV8">
+    <title lang="it">GP Ungheria: Gara Moto2</title>
+  </programme>
+  <programme start="20260607145500 +0200" stop="20260607153000 +0200" channel="TV8">
+    <title lang="it">Ungheria Paddock Live</title>
+  </programme>
+  <programme start="20260607153000 +0200" stop="20260607155500 +0200" channel="TV8">
+    <title lang="it">MotoGP Grid</title>
+  </programme>
+  <programme start="20260607155500 +0200" stop="20260607170000 +0200" channel="TV8">
+    <title lang="it">GP Ungheria: Gara MotoGP</title>
+  </programme>
+  <programme start="20260607170000 +0200" stop="20260607171000 +0200" channel="TV8">
+    <title lang="it">MotoGP Zona Rossa</title>
+  </programme>
+  <programme start="20260607171000 +0200" stop="20260607183500 +0200" channel="TV8">
+    <title lang="it">F1 Paddock Live Pre Gara</title>
+  </programme>
+  <programme start="20260607183500 +0200" stop="20260607203000 +0200" channel="TV8">
+    <title lang="it">GP Monaco: Gara F1</title>
+  </programme>
+  <programme start="20260607203000 +0200" stop="20260607205500 +0200" channel="TV8">
+    <title lang="it">F1 Podio</title>
+  </programme>
+  <programme start="20260607205500 +0200" stop="20260607212000 +0200" channel="TV8">
+    <title lang="it">F1 Paddock Live Post Gara</title>
+  </programme>
+  <programme start="20260607212000 +0200" stop="20260607233000 +0200" channel="TV8">
+    <title lang="it">Jumanji: Benvenuti nella giungla</title>
+  </programme>
+  <programme start="20260607233000 +0200" stop="20260608023000 +0200" channel="TV8">
+    <title lang="it">No Time to Die</title>
+  </programme>
+  <programme start="20260608023000 +0200" stop="20260608032500 +0200" channel="TV8">
+    <title lang="it">Coppie che uccidono</title>
+  </programme>
+  <programme start="20260608032500 +0200" stop="20260608042000 +0200" channel="TV8">
+    <title lang="it">Lady Killer</title>
+  </programme>
+  <programme start="20260608042000 +0200" stop="20260608050500 +0200" channel="TV8">
+    <title lang="it">Lady Killer</title>
+  </programme>
+  <programme start="20260608050500 +0200" stop="20260608054500 +0200" channel="TV8">
+    <title lang="it">Lady Killer</title>
+  </programme>
+  <programme start="20260608054500 +0200" stop="20260608060000 +0200" channel="TV8">
+    <title lang="it">Alessandro Borghese Kitchen Sound</title>
+  </programme>
+  <programme start="20260607053500 +0200" stop="20260607060000 +0200" channel="Nove">
+    <title lang="it">Come fanno gli animali</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607070500 +0200" channel="Nove">
+    <title lang="it">La magia della natura: Patagonia</title>
+  </programme>
+  <programme start="20260607070500 +0200" stop="20260607081000 +0200" channel="Nove">
+    <title lang="it">La magia della natura: Patagonia</title>
+  </programme>
+  <programme start="20260607081000 +0200" stop="20260607111000 +0200" channel="Nove">
+    <title lang="it">Alla scoperta dell'India</title>
+  </programme>
+  <programme start="20260607111000 +0200" stop="20260607131000 +0200" channel="Nove">
+    <title lang="it">Alla scoperta dell'India</title>
+  </programme>
+  <programme start="20260607131000 +0200" stop="20260607143000 +0200" channel="Nove">
+    <title lang="it">Cash or Trash - Chi offre di piu'?</title>
+  </programme>
+  <programme start="20260607143000 +0200" stop="20260607184000 +0200" channel="Nove">
+    <title lang="it">Roland Garros - Finale maschile singolare</title>
+  </programme>
+  <programme start="20260607184000 +0200" stop="20260607200000 +0200" channel="Nove">
+    <title lang="it">Cash or Trash - Chi offre di piu'?</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607213000 +0200" channel="Nove">
+    <title lang="it">Little Big Italy</title>
+  </programme>
+  <programme start="20260607213000 +0200" stop="20260608005000 +0200" channel="Nove">
+    <title lang="it">La Corrida</title>
+  </programme>
+  <programme start="20260608005000 +0200" stop="20260608022500 +0200" channel="Nove">
+    <title lang="it">I migliori Fratelli di Crozza</title>
+  </programme>
+  <programme start="20260608022500 +0200" stop="20260608034500 +0200" channel="Nove">
+    <title lang="it">Nudi e crudi</title>
+  </programme>
+  <programme start="20260608034500 +0200" stop="20260608053000 +0200" channel="Nove">
+    <title lang="it">Nudi e crudi</title>
+  </programme>
+  <programme start="20260608053000 +0200" stop="20260608060000 +0200" channel="Nove">
+    <title lang="it">L'investigatore Wolfe</title>
+  </programme>
+  <programme start="20260607010000 +0200" stop="20260607060000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Programmazione notturna</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607123000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Diretta Stadio</title>
+  </programme>
+  <programme start="20260607123000 +0200" stop="20260607140000 +0200" channel="Italia 7 Gold">
+    <title lang="it">2 Chiacchiere in cucina</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607150000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Supermercato</title>
+  </programme>
+  <programme start="20260607150000 +0200" stop="20260607170000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Diretta Stadio</title>
+  </programme>
+  <programme start="20260607170000 +0200" stop="20260607173000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Motorpad TV</title>
+  </programme>
+  <programme start="20260607173000 +0200" stop="20260607180000 +0200" channel="Italia 7 Gold">
+    <title lang="it">TG7</title>
+  </programme>
+  <programme start="20260607180000 +0200" stop="20260607233000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Diretta Stadio</title>
+  </programme>
+  <programme start="20260607233000 +0200" stop="20260608010000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Calcissimo</title>
+  </programme>
+  <programme start="20260608010000 +0200" stop="20260608060000 +0200" channel="Italia 7 Gold">
+    <title lang="it">Programmazione notturna</title>
+  </programme>
+  <programme start="20260607051600 +0200" stop="20260607060000 +0200" channel="20">
+    <title lang="it">Distretto di Polizia</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607063200 +0200" channel="20">
+    <title lang="it">Show reel</title>
+  </programme>
+  <programme start="20260607063200 +0200" stop="20260607071500 +0200" channel="20">
+    <title lang="it">Distretto di Polizia</title>
+  </programme>
+  <programme start="20260607071500 +0200" stop="20260607075600 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607075600 +0200" stop="20260607085000 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607085000 +0200" stop="20260607093900 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607093900 +0200" stop="20260607103600 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607103600 +0200" stop="20260607113300 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607113300 +0200" stop="20260607123100 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607123100 +0200" stop="20260607132600 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607132600 +0200" stop="20260607141900 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607141900 +0200" stop="20260607151100 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607151100 +0200" stop="20260607160500 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607160500 +0200" stop="20260607165800 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607165800 +0200" stop="20260607175000 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607175000 +0200" stop="20260607184700 +0200" channel="20">
+    <title lang="it">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20260607184700 +0200" stop="20260607211000 +0200" channel="20">
+    <title lang="it">Lara Croft: Tomb Raider - La culla della vita</title>
+  </programme>
+  <programme start="20260607211000 +0200" stop="20260607235800 +0200" channel="20">
+    <title lang="it">Spider-Man 3</title>
+  </programme>
+  <programme start="20260607235800 +0200" stop="20260608021500 +0200" channel="20">
+    <title lang="it">John Wick - Capitolo 2</title>
+  </programme>
+  <programme start="20260608021500 +0200" stop="20260608035900 +0200" channel="20">
+    <title lang="it">Lara Croft: Tomb Raider - La culla della vita</title>
+  </programme>
+  <programme start="20260608035900 +0200" stop="20260608043300 +0200" channel="20">
+    <title lang="it">Show reel</title>
+  </programme>
+  <programme start="20260608043300 +0200" stop="20260608051600 +0200" channel="20">
+    <title lang="it">Distretto di Polizia</title>
+  </programme>
+  <programme start="20260608051600 +0200" stop="20260608060000 +0200" channel="20">
+    <title lang="it">Distretto di Polizia</title>
+  </programme>
+  <programme start="20260607054100 +0200" stop="20260607062600 +0200" channel="Rai 4">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260607062600 +0200" stop="20260607071100 +0200" channel="Rai 4">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260607071100 +0200" stop="20260607080100 +0200" channel="Rai 4">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260607080100 +0200" stop="20260607085300 +0200" channel="Rai 4">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260607085300 +0200" stop="20260607094100 +0200" channel="Rai 4">
+    <title lang="it">Il commissario Rex</title>
+  </programme>
+  <programme start="20260607094100 +0200" stop="20260607101700 +0200" channel="Rai 4">
+    <title lang="it">Wonderland</title>
+  </programme>
+  <programme start="20260607101700 +0200" stop="20260607110000 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds</title>
+  </programme>
+  <programme start="20260607110000 +0200" stop="20260607114400 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds</title>
+  </programme>
+  <programme start="20260607114400 +0200" stop="20260607122700 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds</title>
+  </programme>
+  <programme start="20260607122700 +0200" stop="20260607131100 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds</title>
+  </programme>
+  <programme start="20260607131100 +0200" stop="20260607135800 +0200" channel="Rai 4">
+    <title lang="it">Criminal Minds</title>
+  </programme>
+  <programme start="20260607135800 +0200" stop="20260607154800 +0200" channel="Rai 4">
+    <title lang="it">Io, robot</title>
+  </programme>
+  <programme start="20260607154800 +0200" stop="20260607164900 +0200" channel="Rai 4">
+    <title lang="it">Delitti in Paradiso</title>
+  </programme>
+  <programme start="20260607164900 +0200" stop="20260607173500 +0200" channel="Rai 4">
+    <title lang="it">Rookie Blue</title>
+  </programme>
+  <programme start="20260607173500 +0200" stop="20260607181800 +0200" channel="Rai 4">
+    <title lang="it">Rookie Blue</title>
+  </programme>
+  <programme start="20260607181800 +0200" stop="20260607190200 +0200" channel="Rai 4">
+    <title lang="it">Rookie Blue</title>
+  </programme>
+  <programme start="20260607190200 +0200" stop="20260607194700 +0200" channel="Rai 4">
+    <title lang="it">Rookie Blue</title>
+  </programme>
+  <programme start="20260607194700 +0200" stop="20260607203200 +0200" channel="Rai 4">
+    <title lang="it">Rookie Blue</title>
+  </programme>
+  <programme start="20260607203200 +0200" stop="20260607212000 +0200" channel="Rai 4">
+    <title lang="it">Alert: Missing Persons Unit</title>
+  </programme>
+  <programme start="20260607212000 +0200" stop="20260607230100 +0200" channel="Rai 4">
+    <title lang="it">The Black Demon</title>
+  </programme>
+  <programme start="20260607230100 +0200" stop="20260608004500 +0200" channel="Rai 4">
+    <title lang="it">Endangered Species - Caccia mortale</title>
+  </programme>
+  <programme start="20260608004500 +0200" stop="20260608004900 +0200" channel="Rai 4">
+    <title lang="it">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260608004900 +0200" stop="20260608025200 +0200" channel="Rai 4">
+    <title lang="it">Cut Off</title>
+  </programme>
+  <programme start="20260608025200 +0200" stop="20260608041700 +0200" channel="Rai 4">
+    <title lang="it">Gangs of Paris</title>
+  </programme>
+  <programme start="20260608041700 +0200" stop="20260608050500 +0200" channel="Rai 4">
+    <title lang="it">Stranger Europe</title>
+  </programme>
+  <programme start="20260608050500 +0200" stop="20260608054500 +0200" channel="Rai 4">
+    <title lang="it">Senza traccia</title>
+  </programme>
+  <programme start="20260607054500 +0200" stop="20260607060600 +0200" channel="Iris">
+    <title lang="it">Finche' c'e' ditta c'e' speranza</title>
+  </programme>
+  <programme start="20260607060600 +0200" stop="20260607062900 +0200" channel="Iris">
+    <title lang="it">Nonno Felice</title>
+  </programme>
+  <programme start="20260607062900 +0200" stop="20260607065700 +0200" channel="Iris">
+    <title lang="it">Nonno Felice</title>
+  </programme>
+  <programme start="20260607065700 +0200" stop="20260607084900 +0200" channel="Iris">
+    <title lang="it">Diva!</title>
+  </programme>
+  <programme start="20260607084900 +0200" stop="20260607110700 +0200" channel="Iris">
+    <title lang="it">Firewall - Accesso negato</title>
+  </programme>
+  <programme start="20260607110700 +0200" stop="20260607134100 +0200" channel="Iris">
+    <title lang="it">Una 44 Magnum per l'ispettore Callaghan</title>
+  </programme>
+  <programme start="20260607134100 +0200" stop="20260607153600 +0200" channel="Iris">
+    <title lang="it">Viaggio in paradiso</title>
+  </programme>
+  <programme start="20260607153600 +0200" stop="20260607155100 +0200" channel="Iris">
+    <title lang="it">Note di cinema</title>
+  </programme>
+  <programme start="20260607155100 +0200" stop="20260607182100 +0200" channel="Iris">
+    <title lang="it">Frequency - Il futuro è in ascolto</title>
+  </programme>
+  <programme start="20260607182100 +0200" stop="20260607211400 +0200" channel="Iris">
+    <title lang="it">Ipotesi di complotto</title>
+  </programme>
+  <programme start="20260607211400 +0200" stop="20260607232600 +0200" channel="Iris">
+    <title lang="it">Il prescelto</title>
+  </programme>
+  <programme start="20260607232600 +0200" stop="20260608020600 +0200" channel="Iris">
+    <title lang="it">Sfera</title>
+  </programme>
+  <programme start="20260608020600 +0200" stop="20260608033700 +0200" channel="Iris">
+    <title lang="it">Viaggio in paradiso</title>
+  </programme>
+  <programme start="20260608033700 +0200" stop="20260608054700 +0200" channel="Iris">
+    <title lang="it">Ipotesi di complotto</title>
+  </programme>
+  <programme start="20260607045900 +0200" stop="20260607060000 +0200" channel="Rai 5">
+    <title lang="it">Di là dal fiume e tra gli alberi</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607061600 +0200" channel="Rai 5">
+    <title lang="it">Una lunga fedeltà</title>
+  </programme>
+  <programme start="20260607061600 +0200" stop="20260607071500 +0200" channel="Rai 5">
+    <title lang="it">Il mistero dell'ultimo Van Gogh</title>
+  </programme>
+  <programme start="20260607071500 +0200" stop="20260607080600 +0200" channel="Rai 5">
+    <title lang="it">Overland</title>
+  </programme>
+  <programme start="20260607080600 +0200" stop="20260607102700 +0200" channel="Rai 5">
+    <title lang="it">80 anni dal Referendum I volti della Repubblica</title>
+  </programme>
+  <programme start="20260607102700 +0200" stop="20260607103100 +0200" channel="Rai 5">
+    <title lang="it">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260607103100 +0200" stop="20260607121800 +0200" channel="Rai 5">
+    <title lang="it">Sapiens Un solo pianeta</title>
+  </programme>
+  <programme start="20260607121800 +0200" stop="20260607124800 +0200" channel="Rai 5">
+    <title lang="it">Passepartout</title>
+  </programme>
+  <programme start="20260607124800 +0200" stop="20260607132200 +0200" channel="Rai 5">
+    <title lang="it">Passepartout</title>
+  </programme>
+  <programme start="20260607132200 +0200" stop="20260607141400 +0200" channel="Rai 5">
+    <title lang="it">Profumo di Pizzi</title>
+  </programme>
+  <programme start="20260607141400 +0200" stop="20260607150900 +0200" channel="Rai 5">
+    <title lang="it">Di là dal fiume e tra gli alberi</title>
+  </programme>
+  <programme start="20260607150900 +0200" stop="20260607160300 +0200" channel="Rai 5">
+    <title lang="it">Un anno di amore selvaggio</title>
+  </programme>
+  <programme start="20260607160300 +0200" stop="20260607172500 +0200" channel="Rai 5">
+    <title lang="it">Sei pezzi facili</title>
+  </programme>
+  <programme start="20260607172500 +0200" stop="20260607182700 +0200" channel="Rai 5">
+    <title lang="it">Campania Teatro Festival</title>
+  </programme>
+  <programme start="20260607182700 +0200" stop="20260607202600 +0200" channel="Rai 5">
+    <title lang="it">Speciale per me, ovvero meno siamo meglio stiamo</title>
+  </programme>
+  <programme start="20260607202600 +0200" stop="20260607202900 +0200" channel="Rai 5">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260607202900 +0200" stop="20260607212200 +0200" channel="Rai 5">
+    <title lang="it">Overland</title>
+  </programme>
+  <programme start="20260607212200 +0200" stop="20260607232700 +0200" channel="Rai 5">
+    <title lang="it">The Conspirator</title>
+  </programme>
+  <programme start="20260607232700 +0200" stop="20260608002000 +0200" channel="Rai 5">
+    <title lang="it">Italia: viaggio nella bellezza</title>
+  </programme>
+  <programme start="20260608002000 +0200" stop="20260608011600 +0200" channel="Rai 5">
+    <title lang="it">Italiani con Paolo Mieli</title>
+  </programme>
+  <programme start="20260608011600 +0200" stop="20260608011700 +0200" channel="Rai 5">
+    <title lang="it">RaiNews</title>
+  </programme>
+  <programme start="20260608011700 +0200" stop="20260608021000 +0200" channel="Rai 5">
+    <title lang="it">Overland</title>
+  </programme>
+  <programme start="20260608021000 +0200" stop="20260608022800 +0200" channel="Rai 5">
+    <title lang="it">Geo</title>
+  </programme>
+  <programme start="20260608022800 +0200" stop="20260608032200 +0200" channel="Rai 5">
+    <title lang="it">L'altro '900</title>
+  </programme>
+  <programme start="20260608032200 +0200" stop="20260608041600 +0200" channel="Rai 5">
+    <title lang="it">Di là dal fiume e tra gli alberi</title>
+  </programme>
+  <programme start="20260608041600 +0200" stop="20260608050700 +0200" channel="Rai 5">
+    <title lang="it">Un anno di amore selvaggio</title>
+  </programme>
+  <programme start="20260608050700 +0200" stop="20260608060000 +0200" channel="Rai 5">
+    <title lang="it">Evolution Il viaggio di Darwin</title>
+  </programme>
+  <programme start="20260607050000 +0200" stop="20260607063000 +0200" channel="Rai Movie">
+    <title lang="it">Dove non ho mai abitato</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607082000 +0200" channel="Rai Movie">
+    <title lang="it">Operazione 'Z'</title>
+  </programme>
+  <programme start="20260607082000 +0200" stop="20260607082500 +0200" channel="Rai Movie">
+    <title lang="it">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260607082500 +0200" stop="20260607105000 +0200" channel="Rai Movie">
+    <title lang="it">Charlot</title>
+  </programme>
+  <programme start="20260607105000 +0200" stop="20260607121000 +0200" channel="Rai Movie">
+    <title lang="it">Totò cerca moglie</title>
+  </programme>
+  <programme start="20260607121000 +0200" stop="20260607140000 +0200" channel="Rai Movie">
+    <title lang="it">Milano Calibro 9</title>
+  </programme>
+  <programme start="20260607140000 +0200" stop="20260607155500 +0200" channel="Rai Movie">
+    <title lang="it">Promises</title>
+  </programme>
+  <programme start="20260607155500 +0200" stop="20260607174000 +0200" channel="Rai Movie">
+    <title lang="it">Benvenuto Presidente!</title>
+  </programme>
+  <programme start="20260607174000 +0200" stop="20260607191500 +0200" channel="Rai Movie">
+    <title lang="it">Ricchi di fantasia</title>
+  </programme>
+  <programme start="20260607191500 +0200" stop="20260607211000 +0200" channel="Rai Movie">
+    <title lang="it">Agente speciale 117 al servizio della Repubblica - Missione Rio</title>
+  </programme>
+  <programme start="20260607211000 +0200" stop="20260607231500 +0200" channel="Rai Movie">
+    <title lang="it">La ragazza della palude</title>
+  </programme>
+  <programme start="20260607231500 +0200" stop="20260608012500 +0200" channel="Rai Movie">
+    <title lang="it">Un vizio di famiglia</title>
+  </programme>
+  <programme start="20260608012500 +0200" stop="20260608033500 +0200" channel="Rai Movie">
+    <title lang="it">Piccole Donne</title>
+  </programme>
+  <programme start="20260608033500 +0200" stop="20260608050000 +0200" channel="Rai Movie">
+    <title lang="it">L'avventuriero di Macao</title>
+  </programme>
+  <programme start="20260607054500 +0200" stop="20260607072000 +0200" channel="Rai Premium">
+    <title lang="it">Attenti a quei tre</title>
+  </programme>
+  <programme start="20260607072000 +0200" stop="20260607090500 +0200" channel="Rai Premium">
+    <title lang="it">Attenti a quei tre</title>
+  </programme>
+  <programme start="20260607090500 +0200" stop="20260607104000 +0200" channel="Rai Premium">
+    <title lang="it">Passeggeri notturni</title>
+  </programme>
+  <programme start="20260607104000 +0200" stop="20260607112500 +0200" channel="Rai Premium">
+    <title lang="it">Cuori</title>
+  </programme>
+  <programme start="20260607112500 +0200" stop="20260607122000 +0200" channel="Rai Premium">
+    <title lang="it">Cuori</title>
+  </programme>
+  <programme start="20260607122000 +0200" stop="20260607132000 +0200" channel="Rai Premium">
+    <title lang="it">Cuori</title>
+  </programme>
+  <programme start="20260607132000 +0200" stop="20260607141000 +0200" channel="Rai Premium">
+    <title lang="it">Cuori</title>
+  </programme>
+  <programme start="20260607141000 +0200" stop="20260607141500 +0200" channel="Rai Premium">
+    <title lang="it">Appuntamento al cinema</title>
+  </programme>
+  <programme start="20260607141500 +0200" stop="20260607155500 +0200" channel="Rai Premium">
+    <title lang="it">Candice Renoir</title>
+  </programme>
+  <programme start="20260607155500 +0200" stop="20260607165000 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607165000 +0200" stop="20260607174000 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607174000 +0200" stop="20260607183000 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607183000 +0200" stop="20260607192500 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607192500 +0200" stop="20260607202000 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607202000 +0200" stop="20260607212000 +0200" channel="Rai Premium">
+    <title lang="it">Un medico in famiglia</title>
+  </programme>
+  <programme start="20260607212000 +0200" stop="20260607232000 +0200" channel="Rai Premium">
+    <title lang="it">Vincenzo Malinconico, Avvocato d’insuccesso</title>
+  </programme>
+  <programme start="20260607232000 +0200" stop="20260608002500 +0200" channel="Rai Premium">
+    <title lang="it">Il bene e il male</title>
+  </programme>
+  <programme start="20260608002500 +0200" stop="20260608012500 +0200" channel="Rai Premium">
+    <title lang="it">Il bene e il male</title>
+  </programme>
+  <programme start="20260608012500 +0200" stop="20260608030000 +0200" channel="Rai Premium">
+    <title lang="it">La Squadra</title>
+  </programme>
+  <programme start="20260608030000 +0200" stop="20260608033500 +0200" channel="Rai Premium">
+    <title lang="it">Uomini H</title>
+  </programme>
+  <programme start="20260608033500 +0200" stop="20260608050000 +0200" channel="Rai Premium">
+    <title lang="it">La cosa sulla soglia</title>
+  </programme>
+  <programme start="20260608050000 +0200" stop="20260608053000 +0200" channel="Rai Premium">
+    <title lang="it">Ricominciare</title>
+  </programme>
+  <programme start="20260607051000 +0200" stop="20260607060000 +0200" channel="Cielo">
+    <title lang="it">Top 20 Funniest</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607063000 +0200" channel="Cielo">
+    <title lang="it">TG24 mezz'ora (Diretta)</title>
+  </programme>
+  <programme start="20260607063000 +0200" stop="20260607065500 +0200" channel="Cielo">
+    <title lang="it">TG24 mezz'ora (Diretta)</title>
+  </programme>
+  <programme start="20260607065500 +0200" stop="20260607075000 +0200" channel="Cielo">
+    <title lang="it">Affari di famiglia</title>
+  </programme>
+  <programme start="20260607075000 +0200" stop="20260607084500 +0200" channel="Cielo">
+    <title lang="it">Affari di famiglia</title>
+  </programme>
+  <programme start="20260607084500 +0200" stop="20260607092500 +0200" channel="Cielo">
+    <title lang="it">Ep.35 Icarus Ultra 1^TV</title>
+  </programme>
+  <programme start="20260607092500 +0200" stop="20260607102500 +0200" channel="Cielo">
+    <title lang="it">House of Gag</title>
+  </programme>
+  <programme start="20260607102500 +0200" stop="20260607103000 +0200" channel="Cielo">
+    <title lang="it">Sky TG24 in pillole</title>
+  </programme>
+  <programme start="20260607103000 +0200" stop="20260607112500 +0200" channel="Cielo">
+    <title lang="it">House of Gag</title>
+  </programme>
+  <programme start="20260607112500 +0200" stop="20260607122500 +0200" channel="Cielo">
+    <title lang="it">Top 20 Funniest</title>
+  </programme>
+  <programme start="20260607122500 +0200" stop="20260607132000 +0200" channel="Cielo">
+    <title lang="it">Steve Austin - Sfida implacabile</title>
+  </programme>
+  <programme start="20260607132000 +0200" stop="20260607141000 +0200" channel="Cielo">
+    <title lang="it">Steve Austin - Sfida implacabile</title>
+  </programme>
+  <programme start="20260607141000 +0200" stop="20260607160500 +0200" channel="Cielo">
+    <title lang="it">The Foreigner - Lo straniero</title>
+  </programme>
+  <programme start="20260607160500 +0200" stop="20260607183000 +0200" channel="Cielo">
+    <title lang="it">The Icebreaker - Terrore tra i ghiacci</title>
+  </programme>
+  <programme start="20260607183000 +0200" stop="20260607202000 +0200" channel="Cielo">
+    <title lang="it">L'urlo della Terra</title>
+  </programme>
+  <programme start="20260607202000 +0200" stop="20260607204500 +0200" channel="Cielo">
+    <title lang="it">Friends</title>
+  </programme>
+  <programme start="20260607204500 +0200" stop="20260607211500 +0200" channel="Cielo">
+    <title lang="it">Friends</title>
+  </programme>
+  <programme start="20260607211500 +0200" stop="20260607230500 +0200" channel="Cielo">
+    <title lang="it">Killing Point</title>
+  </programme>
+  <programme start="20260607230500 +0200" stop="20260608005500 +0200" channel="Cielo">
+    <title lang="it">Antigang - Nell'ombra del crimine</title>
+  </programme>
+  <programme start="20260608005500 +0200" stop="20260608031500 +0200" channel="Cielo">
+    <title lang="it">Security</title>
+  </programme>
+  <programme start="20260608031500 +0200" stop="20260608050000 +0200" channel="Cielo">
+    <title lang="it">Rendel - Il vigilante</title>
+  </programme>
+  <programme start="20260608050000 +0200" stop="20260608053500 +0200" channel="Cielo">
+    <title lang="it">Affari al buio</title>
+  </programme>
+  <programme start="20260608053500 +0200" stop="20260608060000 +0200" channel="Cielo">
+    <title lang="it">Affari di famiglia</title>
+  </programme>
+  <programme start="20260607055300 +0200" stop="20260607060000 +0200" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607062000 +0200" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260607062000 +0200" stop="20260607062900 +0200" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260607062900 +0200" stop="20260607071400 +0200" channel="Twenty Seven">
+    <title lang="it">Hazzard</title>
+  </programme>
+  <programme start="20260607071400 +0200" stop="20260607075900 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607075900 +0200" stop="20260607085900 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607085900 +0200" stop="20260607100000 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607100000 +0200" stop="20260607110300 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607110300 +0200" stop="20260607120700 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607120700 +0200" stop="20260607130500 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607130500 +0200" stop="20260607140100 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607140100 +0200" stop="20260607150000 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607150000 +0200" stop="20260607160100 +0200" channel="Twenty Seven">
+    <title lang="it">La signora del West</title>
+  </programme>
+  <programme start="20260607160100 +0200" stop="20260607170300 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607170300 +0200" stop="20260607181000 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607181000 +0200" stop="20260607191100 +0200" channel="Twenty Seven">
+    <title lang="it">La casa nella prateria</title>
+  </programme>
+  <programme start="20260607191100 +0200" stop="20260607201200 +0200" channel="Twenty Seven">
+    <title lang="it">Walker, Texas Ranger</title>
+  </programme>
+  <programme start="20260607201200 +0200" stop="20260607211300 +0200" channel="Twenty Seven">
+    <title lang="it">Walker, Texas Ranger</title>
+  </programme>
+  <programme start="20260607211300 +0200" stop="20260607231100 +0200" channel="Twenty Seven">
+    <title lang="it">Scuola di polizia</title>
+  </programme>
+  <programme start="20260607231100 +0200" stop="20260608012200 +0200" channel="Twenty Seven">
+    <title lang="it">Striptease</title>
+  </programme>
+  <programme start="20260608012200 +0200" stop="20260608021000 +0200" channel="Twenty Seven">
+    <title lang="it">Hazzard</title>
+  </programme>
+  <programme start="20260608021000 +0200" stop="20260608025400 +0200" channel="Twenty Seven">
+    <title lang="it">Walker, Texas Ranger</title>
+  </programme>
+  <programme start="20260608025400 +0200" stop="20260608033700 +0200" channel="Twenty Seven">
+    <title lang="it">Walker, Texas Ranger</title>
+  </programme>
+  <programme start="20260608033700 +0200" stop="20260608040100 +0200" channel="Twenty Seven">
+    <title lang="it">Nonno Felice</title>
+  </programme>
+  <programme start="20260608040100 +0200" stop="20260608054400 +0200" channel="Twenty Seven">
+    <title lang="it">Piazza di Spagna (di F. Vancini)</title>
+  </programme>
+  <programme start="20260608054400 +0200" stop="20260608055100 +0200" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260608055100 +0200" stop="20260608060000 +0200" channel="Twenty Seven">
+    <title lang="it">Camera Cafe'</title>
+  </programme>
+  <programme start="20260607055500 +0200" stop="20260607061500 +0200" channel="TV2000">
+    <title lang="it">Terra Santa News</title>
+  </programme>
+  <programme start="20260607061500 +0200" stop="20260607065000 +0200" channel="TV2000">
+    <title lang="it">Borghi D'Italia</title>
+  </programme>
+  <programme start="20260607065000 +0200" stop="20260607073500 +0200" channel="TV2000">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20260607073500 +0200" stop="20260607080500 +0200" channel="TV2000">
+    <title lang="it">Agrinet 4 Tech: il futuro in campo</title>
+  </programme>
+  <programme start="20260607080500 +0200" stop="20260607083000 +0200" channel="TV2000">
+    <title lang="it">Sulla strada</title>
+  </programme>
+  <programme start="20260607083000 +0200" stop="20260607092000 +0200" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20260607092000 +0200" stop="20260607100000 +0200" channel="TV2000">
+    <title lang="it">Buongiorno Prof</title>
+  </programme>
+  <programme start="20260607100000 +0200" stop="20260607123000 +0200" channel="TV2000">
+    <title lang="it">Viaggio Apostolico in Spagna</title>
+  </programme>
+  <programme start="20260607123000 +0200" stop="20260607130500 +0200" channel="TV2000">
+    <title lang="it">Borghi d'Italia</title>
+  </programme>
+  <programme start="20260607130500 +0200" stop="20260607143500 +0200" channel="TV2000">
+    <title lang="it">Bernie il Delfino</title>
+  </programme>
+  <programme start="20260607143500 +0200" stop="20260607150000 +0200" channel="TV2000">
+    <title lang="it">Eccomi</title>
+  </programme>
+  <programme start="20260607150000 +0200" stop="20260607151500 +0200" channel="TV2000">
+    <title lang="it">Coroncina alla Divina Misericordia</title>
+  </programme>
+  <programme start="20260607151500 +0200" stop="20260607180000 +0200" channel="TV2000">
+    <title lang="it">Terramater</title>
+  </programme>
+  <programme start="20260607180000 +0200" stop="20260607183000 +0200" channel="TV2000">
+    <title lang="it">Rosario In Diretta Da Lourdes</title>
+  </programme>
+  <programme start="20260607183000 +0200" stop="20260607190000 +0200" channel="TV2000">
+    <title lang="it">Tg2000</title>
+  </programme>
+  <programme start="20260607190000 +0200" stop="20260607200000 +0200" channel="TV2000">
+    <title lang="it">Santa Messa</title>
+  </programme>
+  <programme start="20260607200000 +0200" stop="20260607204500 +0200" channel="TV2000">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20260607204500 +0200" stop="20260607210500 +0200" channel="TV2000">
+    <title lang="it">Tg2000</title>
+  </programme>
+  <programme start="20260607210500 +0200" stop="20260607214000 +0200" channel="TV2000">
+    <title lang="it">Viaggio Apostolico in Spagna</title>
+  </programme>
+  <programme start="20260607214000 +0200" stop="20260607233000 +0200" channel="TV2000">
+    <title lang="it">Indiscreto</title>
+  </programme>
+  <programme start="20260607233000 +0200" stop="20260608002500 +0200" channel="TV2000">
+    <title lang="it">IL SUO CORPO E IL SUO SANGUE</title>
+  </programme>
+  <programme start="20260608002500 +0200" stop="20260608005500 +0200" channel="TV2000">
+    <title lang="it">Effetto notte</title>
+  </programme>
+  <programme start="20260608005500 +0200" stop="20260608010500 +0200" channel="TV2000">
+    <title lang="it">Angelus</title>
+  </programme>
+  <programme start="20260608010500 +0200" stop="20260608012500 +0200" channel="TV2000">
+    <title lang="it">La Compieta</title>
+  </programme>
+  <programme start="20260608012500 +0200" stop="20260608020000 +0200" channel="TV2000">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20260608020000 +0200" stop="20260608022500 +0200" channel="TV2000">
+    <title lang="it">LA BASILICA DI SAN PETRONIO A BOLOGNA</title>
+  </programme>
+  <programme start="20260608022500 +0200" stop="20260608025500 +0200" channel="TV2000">
+    <title lang="it">I Santi</title>
+  </programme>
+  <programme start="20260608025500 +0200" stop="20260608031500 +0200" channel="TV2000">
+    <title lang="it">Arnolfo Di Cambio</title>
+  </programme>
+  <programme start="20260608031500 +0200" stop="20260608040000 +0200" channel="TV2000">
+    <title lang="it">Un albero indiano</title>
+  </programme>
+  <programme start="20260608040000 +0200" stop="20260608045000 +0200" channel="TV2000">
+    <title lang="it">Quel che bolle in pentola</title>
+  </programme>
+  <programme start="20260608045000 +0200" stop="20260608050000 +0200" channel="TV2000">
+    <title lang="it">Clip Borghi d'Italia</title>
+  </programme>
+  <programme start="20260608050000 +0200" stop="20260608052500 +0200" channel="TV2000">
+    <title lang="it">Santo Rosario</title>
+  </programme>
+  <programme start="20260608052500 +0200" stop="20260608055000 +0200" channel="TV2000">
+    <title lang="it">In cammino</title>
+  </programme>
+  <programme start="20260607035000 +0200" stop="20260607060000 +0200" channel="La7 Cinema">
+    <title lang="it">Un tirchio quasi perfetto</title>
+  </programme>
+  <programme start="20260607060000 +0200" stop="20260607060500 +0200" channel="La7 Cinema">
+    <title lang="it">Oroscopo</title>
+  </programme>
+  <programme start="20260607060500 +0200" stop="20260607061000 +0200" channel="La7 Cinema">
+    <title lang="it">Meteo</title>
+  </programme>
+  <programme start="20260607061000 +0200" stop="20260607061500 +0200" channel="La7 Cinema">
+    <title lang="it">Oroscopo</title>
+  </programme>
+  <programme start="20260607061500 +0200" stop="20260607062500 +0200" channel="La7 Cinema">
+    <title lang="it">Meteo</title>
+  </programme>
+  <programme start="20260607062500 +0200" stop="20260607070000 +0200" channel="La7 Cinema">
+    <title lang="it">Hollywood Collection</title>
+  </programme>
+  <programme start="20260607070000 +0200" stop="20260607092000 +0200" channel="La7 Cinema">
+    <title lang="it">A proposito di Schmidt</title>
+  </programme>
+  <programme start="20260607092000 +0200" stop="20260607113000 +0200" channel="La7 Cinema">
+    <title lang="it">Jack</title>
+  </programme>
+  <programme start="20260607113000 +0200" stop="20260607140500 +0200" channel="La7 Cinema">
+    <title lang="it">Hook - Capitan Uncino</title>
+  </programme>
+  <programme start="20260607140500 +0200" stop="20260607163500 +0200" channel="La7 Cinema">
+    <title lang="it">Mai dire mai</title>
+  </programme>
+  <programme start="20260607163500 +0200" stop="20260607184500 +0200" channel="La7 Cinema">
+    <title lang="it">Paradiso perduto</title>
+  </programme>
+  <programme start="20260607184500 +0200" stop="20260607211500 +0200" channel="La7 Cinema">
+    <title lang="it">Il verdetto</title>
+  </programme>
+  <programme start="20260607211500 +0200" stop="20260607234000 +0200" channel="La7 Cinema">
+    <title lang="it">Men of Honor - L'onore degli uomini</title>
+  </programme>
+  <programme start="20260607234000 +0200" stop="20260608013500 +0200" channel="La7 Cinema">
+    <title lang="it">Closer</title>
+  </programme>
+  <programme start="20260608013500 +0200" stop="20260608042500 +0200" channel="La7 Cinema">
+    <title lang="it">La famiglia</title>
+  </programme>
+  <programme start="20260608042500 +0200" stop="20260608052000 +0200" channel="La7 Cinema">
+    <title lang="it">Claudia Cardinale</title>
+  </programme>
+</tv>
